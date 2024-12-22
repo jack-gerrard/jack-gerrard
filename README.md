@@ -1,4 +1,5 @@
-![jadu-cto](https://github.com/user-attachments/assets/e043af44-9daa-4218-8fb5-c7423376ab4f)
+![metal-banner-white-transparent](https://github.com/user-attachments/assets/ffa4e405-0d9e-4e9c-8322-c79dd2de9ce7)
+
 
 > [!IMPORTANT]
 > I just worked out how to add images to my github
