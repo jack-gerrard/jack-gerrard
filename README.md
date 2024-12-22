@@ -1,7 +1,7 @@
+![jadu-cto](https://github.com/user-attachments/assets/e043af44-9daa-4218-8fb5-c7423376ab4f)
+
 > [!IMPORTANT]
 > I just worked out how to add images to my github
-
-![jadu-cto](https://github.com/user-attachments/assets/e043af44-9daa-4218-8fb5-c7423376ab4f)
 
 <!--
 **jadu-cto/jadu-cto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
