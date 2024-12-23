@@ -16,10 +16,6 @@
  </g>
 </svg>
 
-
-> [!IMPORTANT]
-> I just worked out how to add images to my github
-
 <!--
 **jack-gerrard/jack-gerrard** is the ✨ _Best_ ✨ repository because it's **MINE**
 -->
