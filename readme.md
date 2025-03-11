@@ -1,8 +1,2 @@
 <!-- Logo -->
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/68a78049-c0a7-4ea9-bf3e-6cb3712568e1" alt="metal-banner-white-transparent" height="230">
-</div>
-
-
-
-
+![JACK](https://github.com/user-attachments/assets/dd5dcdad-674e-431e-95b8-db0e7471eebd)
